@@ -97,3 +97,5 @@ def Stego():
         print("ERROR: Invalid option chosen")
 
 Stego()
+
+# Modified from https://github.com/djrobin17/image-stego-tool/blob/master/stego.py
